@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.pyc
+transfermarkt_threads.json

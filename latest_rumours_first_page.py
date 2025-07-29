@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import json
 import time
 
-BASE_URL = "https://www.transfermarkt.com/geruechte/aktuellegeruechte/statistik"
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
